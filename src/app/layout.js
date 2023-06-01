@@ -5,8 +5,8 @@ import "./site.css";
 // const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "Beta Capitals",
-  description: "Beta Capitals - Leading platform to trade and investments" 
+  title: "Crypto Stock Exchange",
+  description: "CryptoStockExchange - Leading platform to trade and investments" 
 } 
 
 export default function RootLayout({ children }) {
